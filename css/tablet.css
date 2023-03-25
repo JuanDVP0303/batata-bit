@@ -1,6 +1,6 @@
 .main-tables-container {
 	justify-content: center;
-	
+	overflow: hidden;
 }
 
 .plans-container--slider {
